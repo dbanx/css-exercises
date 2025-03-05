@@ -11,8 +11,27 @@ img {
   display: flex;
   font-size: 36px;
   font-weight: 900;
+<<<<<<< HEAD
   justify-content: center;
   margin-bottom: 32px;
+=======
+  display: flex;
+  justify-content: center;
+  margin-bottom: 32px;
+}
+
+.plants {
+  display: flex;
+  justify-content: center;
+  gap: 52px;
+}
+
+.info {
+  flex-wrap: wrap;
+  flex-basis: 200px;
+  justify-items: center;
+  text-align: center;
+>>>>>>> 3fb224b8e9d079169c3b3a82f60479db7f0a9a84
 }
 
 .flowers {
